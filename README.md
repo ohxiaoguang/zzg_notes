@@ -7,7 +7,7 @@
 1. [nginx常用配置](nginx/配置.md)
 
 ### 命令行
-1. [firewall防火墙限制ip端口](命令行/Centos7防火墙配置rich-rule实现IP端口限制访问 & firewall-cmd命令.md)
+1. [firewall防火墙限制ip端口](命令行/firewall.md)
 2. [docker安装，常用中间件脚本](命令行/docker.md)
 3. [iptables常用命令](命令行/iptables.md)
 4. [linux允许root登录，配置主机名，ip](命令行/linux.md)
