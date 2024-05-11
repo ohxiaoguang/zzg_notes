@@ -2,7 +2,9 @@
 ### Java
 1. [Java操作图片、word转pdf](Java/pdf操作.md)
 
-   
+### 前端
+1. [VueRouter路由模式history配置](前端/VueRouter路由模式history配置.md)
+
 ### nginx
 1. [nginx常用配置](nginx/配置.md)
 
