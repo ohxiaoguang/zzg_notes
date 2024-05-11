@@ -1,0 +1,1 @@
+【【Kurt】Blender零基础入门教程 | Blender中文区新手必刷教程(已完结)】 https://www.bilibili.com/video/BV14u41147YH/?share_source=copy_web
